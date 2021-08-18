@@ -8,8 +8,8 @@ The goal of this project is find some insights from the 100 years of olympics da
 3. "olympic_data_cleaning.ipynb"    ->  Data cleaning using python.
 </pre>
 
-Programming Language used: Python, R <br />
-Tools used: Jupyter Notebook, RStudio
+Programming Language used: **Python, R** <br />
+Tools used: **Jupyter Notebook, RStudio**
 
 
 
