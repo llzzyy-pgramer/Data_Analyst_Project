@@ -7,7 +7,7 @@ The main criteria for selecting the most potential suitors are,
 - **Top Growth**
 
 
-Tools used: Tableau Public
+Tools used: **Tableau Public**
 
 ** *In order to view and use the dashboard, download the file "Venture Capital Dashboard.twbx" and view on Tableau.**
 
