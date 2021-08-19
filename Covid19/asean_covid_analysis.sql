@@ -71,4 +71,18 @@ ORDER BY fully_vaccinated_rate DESC
 select * from asean_vaccination;
 select * from asean_death;
 
+
+
+-- Selecting required column
+
+SELECT dea.continent, dea.location, dea.date, dea.population,
+       (dea.total_deaths/dea.total_cases)*100              as death_per_case, 
+       (dea.total_deaths/dea.population)*100               as death_per_pop,  
+       (vac.total_vaccinations/dea.population)*100         as vac_per_pop,  
+       (vac.people_fully_vaccinated/dea.population)*100   as fvac_per_pop  
+FROM asean_death dea 
+JOIN asean_vaccination vac  
+ON (dea.date = vac.date AND dea.location = vac.location)
+
+
  
