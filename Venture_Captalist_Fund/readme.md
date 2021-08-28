@@ -6,6 +6,7 @@ The main criteria for selecting the most potential suitors are,
 - **Low Expense**
 - **Top Growth**
 
+To view Tableau Dashboard, link's here: https://public.tableau.com/views/VentureCapitalDashboard_16288686122390/GeneralReport?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Tools used: **Tableau Public**
 
